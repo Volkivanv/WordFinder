@@ -1,0 +1,32 @@
+Radio engineering is the science dealing with electromagnetic oscillations and waves in the radio-frequency range, that is, with methods of generating, amplifying, radiating, receiving and using such waves.
+ It is a branch of technology concerned with the use of electromagnetic oscillations and waves in the radio-frequency range for the transmission of information in such fields as radio communications, radio broad- casting, television, radar, and radio navigation, control and regulation of machines, mechanisms, technological processes and in various scientific investigations.
+ The radio-frequency range encompasses electromagnetic waves with wavelengths from tens of thousands of kilometers to tenths of a millimeter.
+
+ The history of radio engineering began with the work of M.
+ Faraday (1837–46), who laid the foundation for the doctrine of electric and magnetic fields.
+ Faraday advanced the idea that the propagation of electric and magnetic effects occurs with a finite velocity and constitutes a wave process.
+ These ideas were further developed by J. C. Maxwell, who in 1864 mathematically described known electric and magnetic phenomena through a system of equations.
+ These equations pointed to the possibility of the existence of an electromagnetic field capable of propagating through space in the form of electromagnetic waves.
+
+ The development of radio engineering has been closely associated with advances in radio physics, electronics, the physics of semiconductors, electroacoustics, the theory of oscillations, information theory, and various branches of mathematics.
+
+ This development has also been linked to advances in high-frequency measure-  ments, and vacuum and semiconductor technologies.
+
+ Radio engineering includes a number of divisions, among which are the generation,  amplification, conversion, and control of electric oscillations.
+
+ Other divisions include antenna technique, the propagation of radio waves in free space, in various media (ionosphere, soil) and in guiding systems(cables, waveguides),
+
+the filtration of electromagnetic oscillations, demodulation, and the reproduction of transmitted signals (speech, music, images telegraph and other signals).
+   Monitoring, control, and regulation through electromagnetic waves and oscillations (by means of electronic systems) are also divisions of radio engineering.
+
+ Radio frequency (RF) engineering is a subset of electrical engineering that deals with devices that are designed to operate in the radio frequency spectrum.
+ These devices operate within the range of about 3 kHz up to 300 GHz.
+
+ RF engineering is incorporated into almost everything that transmits or receives a radio wave, which includes, but is not limited to, mobile phones, radios, Wi-Fi, and two-way radios.
+
+ Radio engineers create and troubleshoot wireless telecommunications equipment.
+ Called RF engineers, they develop schematics for cell phones and other broadcasting devices, as well as set up wireless networks and maintain existing ones.
+ RF engineers work with broadcast stations in setting up their networks and performing maintenance on them once they are operational.
+
+ TV engineers work to combine traditional forms of information technology with emerging digital components in an effort to maintain the equipment that brings images to TV screens across the country.
+ They are involved in both the studio and the transmitter end, that is, they maintain a working knowledge of audio/video instrumentation, baseband video, studio acoustics, video compression and broadcast automation.
